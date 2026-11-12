@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reels Blocker</string>
+    <string name="service_label">Reels Blocker</string>
+    <string name="service_description">Watches the Instagram screen and leaves Reels the moment they open. It only runs while Instagram is open, reads nothing else, and sends no data anywhere.</string>
+</resources>
